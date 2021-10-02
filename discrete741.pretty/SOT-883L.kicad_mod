@@ -1,14 +1,14 @@
-(module SOT-883 (layer F.Cu) (tedit 6157C2CC)
+(module SOT-883L (layer F.Cu) (tedit 6158E52F)
   (descr "SOT-883, https://assets.nexperia.com/documents/outline-drawing/SOT883.pdf")
   (tags SOT-883)
   (attr smd)
   (fp_text reference REF** (at 0 -1.905) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SOT-883 (at 0 1.905) (layer F.Fab) hide
+  (fp_text value SOT-883L (at 0 1.905) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_line (start -0.7 0.25) (end -0.7 -0.25) (layer F.SilkS) (width 0.12))
+  (fp_line (start -0.7 0.25) (end -0.7 -0.25) (layer F.SilkS) (width 0.1))
   (fp_line (start -0.31 -0.31) (end 0.51 -0.31) (layer F.Fab) (width 0.1))
   (fp_line (start 0.51 -0.31) (end 0.51 0.31) (layer F.Fab) (width 0.1))
   (fp_line (start 0.51 0.31) (end -0.51 0.31) (layer F.Fab) (width 0.1))
