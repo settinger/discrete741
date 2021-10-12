@@ -1,4 +1,4 @@
-# MD741
+# MD741, a dis-integrated circuit
 
 ## A 741-style op-amp made of discrete components, DIP-8 size
 
